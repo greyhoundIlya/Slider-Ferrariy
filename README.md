@@ -6,3 +6,5 @@ Currently, two official plugins are available:
 
 ## Expanding the ESLint configuration
 
+[DEMO] https://greyhoundIlya.github.io/Slider-Ferrariy/
+
